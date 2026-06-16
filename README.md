@@ -73,6 +73,3 @@ This leads to **algorithmic discrimination**, unfair ranking, and distorted digi
 
 ---
 
-## ⭐ Vision
-
-**FAIRMEDIA — Making AI fair, transparent, and accountable.**
